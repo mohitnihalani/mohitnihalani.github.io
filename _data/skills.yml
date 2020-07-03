@@ -6,20 +6,20 @@ languages:
   - item: GoLang
   - item: Swift
 
-Web Technologies:
+WebTechnologies:
   - item: React.js
   - item: D3.js
   - item: Redux
   - item: GraphQL
   - item: Node.js
 
-Machine Learning/AI:
+MachineLearningAI:
   - item: PyTorch
   - item: Tensorflow
   - item: Keras
   - item: Core-ML
 
-Cloud/Big Data:
+CloudBigData:
   - item: AWS
   - item: Zookeeper
   - item: Spark
@@ -31,7 +31,7 @@ tools:
   - item: Unity3D
   - item: Matlab
   
-Databases:
+Database:
   - item: MySQL
   - item: MongoDB
   - item: HBase
