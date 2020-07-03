@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mohitnihalani.github.io/sitemap.xml
