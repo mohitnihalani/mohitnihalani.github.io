@@ -18,7 +18,9 @@ social:
     url: https://medium.com/@nihalanim9
 
   
-  
+sass: 
+  style: compressed
+  sass_dir: _sass
 
 # Build settings
 markdown: kramdown
