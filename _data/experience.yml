@@ -1,14 +1,24 @@
-- company: Moonraft Innovation Labs
-  url: http://www.moonraft.com
-  time: June 2014 - Sep 2017
+- company: EchoAR
+  url: https://www.echoar.xyz/
+  time: June 2020 - Current
   position: Software Engineer
 
-- company: Ramaiah Institute of Technology
-  url: 
-  time: Jan 2013 - July 2014
-  position: Research Assistant
+- company: New York University
+  url: https://cs.nyu.edu/
+  time: January 2020 - Current
+  position: Graduate Teaching Adjunct
 
-- company: Nokia SND
-  url: 
-  time: June 2013 - Aug 2013
-  position: Java Developer intern
+- company: New York University IT
+  url: https://cs.nyu.edu/
+  time: September 2019 - June 2020
+  position: Software Engineer
+
+- company: Pykih
+  url: https://pykih.com/
+  time: August 2018 - June 2019
+  position: Software Engineer
+
+- company: University of Surrey IT
+  url: https://www.surrey.ac.uk/
+  time: September 2017 - June 2018
+  position: Software Engineer
