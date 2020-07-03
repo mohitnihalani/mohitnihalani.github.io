@@ -7,7 +7,6 @@ baseurl: ""
 email: mn2643@nyu.edu
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: /pdfs/resume.pdf
 social:
   - title: email
     url: mailto:mn2643@nyu.edu
