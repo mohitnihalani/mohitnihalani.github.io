@@ -134,7 +134,7 @@ strong {
     font-size: 1rem;
     width: 100%;
     max-width: 650px;
-    text-align: justify;
+    
     @include tablet {
       padding-top: 30px;
       padding-left: 50px;
@@ -145,6 +145,7 @@ strong {
     p {
       margin-top: 0;
       margin-bottom: 25px;
+      text-align: justify;
     }
     .underline-link {
       position: relative;
