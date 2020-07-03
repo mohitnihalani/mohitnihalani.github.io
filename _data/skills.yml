@@ -1,13 +1,29 @@
 languages:
-  - item: C/C++
   - item: Java
   - item: Python
+  - item: C++
   - item: JavaScript
+  - item: GoLang
+  - item: Swift
 
-frameworks:
+Web Technologies:
+  - item: React.js
+  - item: D3.js
+  - item: Redux
+  - item: GraphQL
+  - item: Node.js
+
+Machine Learning/AI:
   - item: PyTorch
-  - item: NodeJS
-  - item: D3
+  - item: Tensorflow
+  - item: Keras
+  - item: Core-ML
+
+Cloud/Big Data:
+  - item: AWS
+  - item: Zookeeper
+  - item: Spark
+  - item: Hadoop
 
 tools:
   - item: Git & Github
@@ -15,7 +31,9 @@ tools:
   - item: Unity3D
   - item: Matlab
   
-
-design:
+Databases:
   - item: MySQL
   - item: MongoDB
+  - item: HBase
+  - item: Impala
+  - item: PostgreSQL
