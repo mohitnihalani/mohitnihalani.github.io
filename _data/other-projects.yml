@@ -1,0 +1,50 @@
+- name: Scheduler
+  url: https://github.com/samarthtambad/scheduler
+  code: https://github.com/samarthtambad/scheduler
+  description: Simulated process scheduling with algorithms such as FCFS, LCFS, SRTF, RoundRobin, Priority and Preemptive Priority.
+  used:
+    - thing: C++
+    - thing: Operating Systems
+    - thing: Academic Project
+
+- name: Virtual Memory Management
+  url: https://github.com/samarthtambad/virtual-mem-mgmt
+  code: https://github.com/samarthtambad/virtual-mem-mgmt
+  description: Implemented virtual memory management and page replacement algorithms such as FIFO, Aging, Clock, etc.
+  used:
+    - thing: C++
+    - thing: Operating Systems
+    - thing: Academic Project
+
+- name: Virtual Dressing Room
+  url: 
+  code: 
+  description: An interactive installation that allows users to try out clothes virtually. I implemented methods to translate movement and joint orientations recorded by the Kinect onto a 3D model. Also built a gesture based user interface to enable users to choose clothes and view a video stream of it draped on the user.
+  used:
+    - thing: C#
+    - thing: Unity3D
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+    - thing: Socket.io
+
+- name: IPL Data Visualisation Dashboard
+  url: https://github.com/samarthtambad/ipl-dash
+  code: https://github.com/samarthtambad/ipl-dash
+  description: Built front-end user interface to visualise insights derived from Kaggle IPL dataset.
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Vue.js
+    - thing: Bulma
+    - thing: vue-chartjs
+    - thing: Personal Project
+
+- name: Self Supervised Deep InfoMax
+  url: 
+  code: 
+  description: Extended DeepInfoMax algorithm by training an additional classifier to predict self-imposed rotations on input image. Improved DeepInfoMax results by 2%.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Academic Project

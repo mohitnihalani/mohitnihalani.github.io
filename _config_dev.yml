@@ -1,0 +1,39 @@
+# Site settings
+name: Samarth Tambad
+title: Samarth Tambad | Software Engineer
+description: A polymathic software engineer
+url: https://samarthtambad.github.io/
+baseurl: ""
+email: svt258@nyu.edu
+cover: https://brittanychiang.com/img/og.png
+logo: https://brittanychiang.com/img/emojis/technologist.png
+resume: /pdfs/resume.pdf
+social:
+  - title: email
+    url: mailto:svt258@nyu.edu
+  - title: github
+    url: https://github.com/samarthtambad
+  - title: linkedin
+    url: https://www.linkedin.com/in/samarth-tambad/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

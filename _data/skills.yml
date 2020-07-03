@@ -1,0 +1,21 @@
+languages:
+  - item: C/C++
+  - item: Java
+  - item: Python
+  - item: JavaScript
+
+frameworks:
+  - item: PyTorch
+  - item: NodeJS
+  - item: D3
+
+tools:
+  - item: Git & Github
+  - item: Bash
+  - item: Unity3D
+  - item: Matlab
+  
+
+design:
+  - item: MySQL
+  - item: MongoDB
