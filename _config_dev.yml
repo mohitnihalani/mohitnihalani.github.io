@@ -1,20 +1,20 @@
 # Site settings
-name: Samarth Tambad
-title: Samarth Tambad | Software Engineer
+name: Mohit Nihalani
+title: Mohit Nihalani | Software Engineer
 description: A polymathic software engineer
 url: https://samarthtambad.github.io/
 baseurl: ""
-email: svt258@nyu.edu
+email: mn2643@nyu.edu
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: /pdfs/resume.pdf
 social:
   - title: email
-    url: mailto:svt258@nyu.edu
+    url: mailto:mn2643@nyu.edu
   - title: github
-    url: https://github.com/samarthtambad
+    url: https://github.com/mohitnihalani
   - title: linkedin
-    url: https://www.linkedin.com/in/samarth-tambad/
+    url: https://www.linkedin.com/in/mohit-nihalani-75a580119/
 
 # Build settings
 markdown: kramdown
