@@ -69,7 +69,7 @@
 - name: Computer Vision and Hyperparameter Optimization
   url: https://github.com/mohitnihalani/Distributed-Systems
   code: https://github.com/mohitnihalani/Distributed-Systems
-  description: : Presented detailed analysis of the effects of parameters on the CNN and SVM models for image classification and proposed an Ensemble-Hybrid model which obtained classification accuracy of 94.6% on CIFAR-10 dataset and optimized the hyper parameters using adaptive genetic algorithms. 
+  description: Presented detailed analysis of the effects of parameters on the CNN and SVM models for image classification and proposed an Ensemble-Hybrid model which obtained classification accuracy of 94.6% on CIFAR-10 dataset and optimized the hyper parameters using adaptive genetic algorithms. 
   used:
     - thing: Python
     - thing: Computer Vision
