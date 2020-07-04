@@ -82,7 +82,7 @@
 - name: Reinforcement Learning
   url: https://github.com/mohitnihalani/Card-Matching-Game-Android
   code: https://github.com/mohitnihalani/Card-Matching-Game-Android
-  description: : Implemented various state of the art RL algorithm such as PPO, A2C, A3C using PyTorch and OpenAI which will be used for tutorial on my medium blog. [GitHub]
+  description: Implemented various state of the art RL algorithm such as PPO, A2C, A3C using PyTorch and OpenAI which will be used for tutorial on my medium blog. [GitHub]
   used:
     - thing: Python
     - thing: PyTorch
@@ -92,7 +92,7 @@
 - name: Android Application
   url: https://github.com/mohitnihalani/Card-Matching-Game-Android
   code: https://github.com/mohitnihalani/Card-Matching-Game-Android
-  description: : Designed mobile app for dementia patients with features such as tracking medication and medical appointments, identifying nearby pharmacies and service providers, emergency button and offering cognitive learning games.
+  description: Designed mobile app for dementia patients with features such as tracking medication and medical appointments, identifying nearby pharmacies and service providers, emergency button and offering cognitive learning games.
   used:
     - thing: Java
     - thing: Android
