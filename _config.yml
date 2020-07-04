@@ -5,7 +5,7 @@ description: A polymathic software engineer
 url: http://www.mohitnihalani.com/
 baseurl: ""
 email: mn2643@nyu.edu
-cover: https://github.com/mohitnihalani/mohitnihalani.github.io/tree/master/img/og.png
+cover: img/og.png
 logo: img/emojis/technologist.png
 social:
   - title: email
