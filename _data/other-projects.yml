@@ -9,7 +9,7 @@
     - thing: GraphQL
     - thing: Apollo 
     - thing: Node.js
-    - thing: SQL
+    - thing: PostgreSQL
     - thing: REST
 
 - name: NLP:- Quora Question Pairs (Kaggle Competition)
