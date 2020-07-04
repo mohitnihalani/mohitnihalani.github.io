@@ -1,50 +1,134 @@
-- name: Scheduler
-  url: https://github.com/samarthtambad/scheduler
-  code: https://github.com/samarthtambad/scheduler
-  description: Simulated process scheduling with algorithms such as FCFS, LCFS, SRTF, RoundRobin, Priority and Preemptive Priority.
+- name: Gossip
+  url: https://github.com/mohitnihalani/Gossip
+  code: https://github.com/mohitnihalani/Gossip
+  description: A react based scalable messaging application built with industries best practices and currently leading technologies in the ecosystem, with modularity and performance as top metric.
   used:
-    - thing: C++
-    - thing: Operating Systems
-    - thing: Academic Project
+    - thing: React
+    - thing: Redux
+    - thing: TypeScript
+    - thing: GraphQL
+    - thing: Apollo 
+    - thing: Node.js
+    - thing: SQL
+    - thing: REST
 
-- name: Virtual Memory Management
-  url: https://github.com/samarthtambad/virtual-mem-mgmt
-  code: https://github.com/samarthtambad/virtual-mem-mgmt
-  description: Implemented virtual memory management and page replacement algorithms such as FIFO, Aging, Clock, etc.
-  used:
-    - thing: C++
-    - thing: Operating Systems
-    - thing: Academic Project
-
-- name: Virtual Dressing Room
-  url: 
-  code: 
-  description: An interactive installation that allows users to try out clothes virtually. I implemented methods to translate movement and joint orientations recorded by the Kinect onto a 3D model. Also built a gesture based user interface to enable users to choose clothes and view a video stream of it draped on the user.
-  used:
-    - thing: C#
-    - thing: Unity3D
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Socket.io
-
-- name: IPL Data Visualisation Dashboard
-  url: https://github.com/samarthtambad/ipl-dash
-  code: https://github.com/samarthtambad/ipl-dash
-  description: Built front-end user interface to visualise insights derived from Kaggle IPL dataset.
-  used:
-    - thing: Python
-    - thing: Pandas
-    - thing: Vue.js
-    - thing: Bulma
-    - thing: vue-chartjs
-    - thing: Personal Project
-
-- name: Self Supervised Deep InfoMax
-  url: 
-  code: 
-  description: Extended DeepInfoMax algorithm by training an additional classifier to predict self-imposed rotations on input image. Improved DeepInfoMax results by 2%.
+- name: NLP:- Quora Question Pairs (Kaggle Competition)
+  url: https://github.com/mohitnihalani/QuoraQuestionPairsBert
+  code: https://github.com/mohitnihalani/QuoraQuestionPairsBert
+  description: Duplicate question detection using Ensemble model of Siamese Network and XGBoost with Glove Embeddings. Our submission was among top 10% and later model was improved with state-of-the-art BERT embeddings to achieve accuracy of 92%.
   used:
     - thing: Python
     - thing: PyTorch
-    - thing: Academic Project
+    - thing: Transformers
+    - thing: NLP
+    - thing: Machine Learning
+    - thing: Spacy
+
+- name: Trending Youtube Videos Statistics
+  url: https://github.com/mohitnihalani/Trending-Youtube-Video-Statistics
+  code: https://github.com/mohitnihalani/Trending-Youtube-Video-Statistics
+  description: Analyzed the trending youtube videos to show how the cultural divergence affects people’s likes and analyze most popular video types to shed light on how YouTubers can refine their videos to get more subscribers, and also recommending popular channels for different video genres.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Seaoborn
+    - thing: Pandas
+
+- name: AR Solar System
+  url: https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Solar-System
+  code: https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Solar-System
+  description: An augement reality application which can be used to teach young students about our solar system. Students can interact, change the speed, gravitation, rotation of planets and learn various information about them. Provides an interactive and fun way of learning.
+  used:
+    - thing: C#
+    - thing: Unity3D
+    - thing: EchoAR
+    - thing: AR Foundation
+
+
+- name: Map Reduce
+  url: https://github.com/mohitnihalani/Distributed-Systems
+  code: https://github.com/mohitnihalani/Distributed-Systems
+  description: Built an fault tolerant MapReduce based key/value system which consists of master server and worker nodes. Raft Consesus algorithm was implemented from scratch that maintains replication, strong consistency and garbage collection of old log entries.
+  used:
+    - thing: Golang
+    - thing: Distributed System
+    - thing: MapReduce
+    - thing: RAFT
+
+
+- name: Sharded Key/Value Service
+  url: https://github.com/mohitnihalani/Distributed-Systems
+  code: https://github.com/mohitnihalani/Distributed-Systems
+  description: Designed a fault tolerant, reconfigurable shard key/value storage system in Golang for increasing throughput performance using replica groups consisting of servers that uses RAFT consensus.
+  used:
+    - thing: Golang
+    - thing: Distributed System
+    - thing: MapReduce
+    - thing: RAFT
+
+- name: Computer Vision and Hyperparameter Optimization
+  url: https://github.com/mohitnihalani/Distributed-Systems
+  code: https://github.com/mohitnihalani/Distributed-Systems
+  description: : Presented detailed analysis of the effects of parameters on the CNN and SVM models for image classification and proposed an Ensemble-Hybrid model which obtained classification accuracy of 94.6% on CIFAR-10 dataset and optimized the hyper parameters using adaptive genetic algorithms. 
+  used:
+    - thing: Python
+    - thing: Computer Vision
+    - thing: PyTorch
+    - thing: Keras
+    - thing: MLShark
+    - thing: Genetic Algorithm
+    - thing: Machine Learning
+
+- name: Reinforcement Learning
+  url: https://github.com/mohitnihalani/Card-Matching-Game-Android
+  code: https://github.com/mohitnihalani/Card-Matching-Game-Android
+  description: : Implemented various state of the art RL algorithm such as PPO, A2C, A3C using PyTorch and OpenAI which will be used for tutorial on my medium blog. [GitHub]
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Reinforcement Learning
+
+
+- name: Android Application
+  url: https://github.com/mohitnihalani/Card-Matching-Game-Android
+  code: https://github.com/mohitnihalani/Card-Matching-Game-Android
+  description: : Designed mobile app for dementia patients with features such as tracking medication and medical appointments, identifying nearby pharmacies and service providers, emergency button and offering cognitive learning games.
+  used:
+    - thing: Java
+    - thing: Android
+
+- name: Chat App
+  url: https://github.com/mohitnihalani/Chat_Messenger_Node_React
+  code: https://github.com/mohitnihalani/Chat_Messenger_Node_React
+  description: Simple chat application using Node js, react, express. It was built for the final project of my undergraduate web dev course, and I think I nailed it as I got an A in the course. But most of the credit goes to my Medium clone as by doing that project, this one was piece of cake for me.
+  used:
+    - thing: MongoDB
+    - thing: React.js
+    - thing: Node.js
+    - thing: Express
+
+- name: Medium Clone
+  url: https://github.com/mohitnihalani/Node-and-React-App
+  code: https://github.com/mohitnihalani/Node-and-React-App
+  description: Medium Clone web app built using MERN Stack. It was built for fun as I was interested in learning React.js and grow my skill set. So it took lot of weekend hours, and I loved the result.
+  used:
+    - thing: MongoDB
+    - thing: React.js
+    - thing: Node.js
+    - thing: Express
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
