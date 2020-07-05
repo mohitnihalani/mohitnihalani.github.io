@@ -32,6 +32,21 @@
     - thing: Python
     - thing: Reinforcement Learning
     - thing: PyTorch
+  
+- name: 'How Safe is Bike Sharing: A Big Data Analysis'
+  url: https://github.com/mohitnihalani/Bike-Sharing-Safety-Big-Data-Analysis
+  code: https://github.com/mohitnihalani/Bike-Sharing-Safety-Big-Data-Analysis
+  description: Big data project to analyze safety of cyclist in densely populated cities such as NYC. With the increasing popularity of the bike sharing programs in NYC, there has been increasing concerns regarding the safety of riders, mainly because the NYC has high traffic and also it is not mandatory for bike sharing riders to wear helmets. This paper performs the big data analysis on NYC Vision Zero, Citi Bike, and Weather dataset to analyze the pattern between the accidents and city bikes. We use various big data technologies such as MapReduce to perform data cleaning and ETL, and then analyzed data using Hive and HBase.
+  used:
+    - thing: Python
+    - thing: Java
+    - thing: Big Data
+    - thing: Hadoop
+    - thing: MapReduce
+    - thing: Hive
+    - thing: Impala
+    - thing: HBase
+    - thing: TeamWork
 
 - name: Trending Youtube Videos Statistics
   url: https://github.com/mohitnihalani/Trending-Youtube-Video-Statistics
