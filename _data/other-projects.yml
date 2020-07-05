@@ -24,6 +24,19 @@
     - thing: Machine Learning
     - thing: Spacy
 
+- name: Max Entropy NER Tagger
+  url: https://github.com/mohitnihalani/maxent-ner-tagger
+  code: https://github.com/mohitnihalani/maxent-ner-tagger
+  description: The goal of this project was to implement and train a named-entity recognizer (NER). Most of the feature builder functionality was implemented using spaCy, an industrial-strength, open-source NLP library. For classification a maximum entropy (MaxEnt) classifier is used. Different contextual, meta features and machine learning techniques such as google word embeddings and clustering is used to increase the performance of the classifier.
+  used:
+    - thing: NLP
+    - thing: Python
+    - thing: Word Embeddings
+    - thing: Spacy
+    - thing: Scikit
+    - thing: NLTK
+
+
 - name: Spaced Repetition Learning Using Reinforcement Learning
   url: https://github.com/mohitnihalani/Spaced-Repetition-Learning-Using-RL
   code: https://github.com/mohitnihalani/Spaced-Repetition-Learning-Using-RL
