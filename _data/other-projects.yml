@@ -45,6 +45,7 @@
     - thing: Python
     - thing: Reinforcement Learning
     - thing: PyTorch
+    - thing: OpenAI
   
 - name: 'How Safe is Bike Sharing: A Big Data Analysis'
   url: https://github.com/mohitnihalani/Bike-Sharing-Safety-Big-Data-Analysis
@@ -124,6 +125,7 @@
     - thing: Python
     - thing: PyTorch
     - thing: Reinforcement Learning
+    - thing: OpenAI
 
 
 - name: Android Application
