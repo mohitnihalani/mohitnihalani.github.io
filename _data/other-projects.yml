@@ -12,6 +12,16 @@
     - thing: PostgreSQL
     - thing: REST
 
+- name: AR Hand Gesture
+  url: https://github.com/mohitnihalani/AR-Hand-Gesture
+  code: https://github.com/mohitnihalani/AR-Hand-Gesture
+  description: An IOS Application using CoreML and ARkit for 3-D model transformations by recognizing hand gestures in realtime.
+  used:
+    - thing: IOS  
+    - thing: ARkit
+    - thing: CoreML
+    - thing: Swift
+
 - name: NLP:- Quora Question Pairs (Kaggle Competition)
   url: https://github.com/mohitnihalani/QuoraQuestionPairsBert
   code: https://github.com/mohitnihalani/QuoraQuestionPairsBert
