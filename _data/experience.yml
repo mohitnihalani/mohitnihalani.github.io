@@ -1,12 +1,22 @@
+- company: New York University - Center of Data Science
+  url: https://cds.nyu.edu/
+  time: August 2020 - Current
+  position: Graduate Teaching Adjunct (Intro to Data Science)
+
+- company: New York University - Courant
+  url: https://cs.nyu.edu/
+  time: August 2020 - August 2020
+  position: Graduate Teaching Adjunct (Machine Learning Bootcamp)
+
 - company: EchoAR
   url: https://www.echoar.xyz/
-  time: June 2020 - Current
+  time: June 2020 - August 2020
   position: Software Engineer Intern
 
-- company: New York University
+- company: New York University - Courant
   url: https://cs.nyu.edu/
-  time: January 2020 - Current
-  position: Graduate Teaching Adjunct
+  time: January 2020 - August 2020
+  position: Graduate Teaching Adjunct (Introduction to Algorithm)
 
 - company: Pykih
   url: https://pykih.com/
@@ -16,4 +26,9 @@
 - company: University of Surrey IT
   url: https://www.surrey.ac.uk/
   time: September 2017 - June 2018
-  position: Software Engineer Intern
+  position: Software Engineer Intern (Part Time)
+
+- company: University of Surrey
+  url: https://www.surrey.ac.uk/
+  time: September 2017 - June 2018
+  position: Teaching Assistant
