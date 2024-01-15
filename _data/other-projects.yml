@@ -1,3 +1,14 @@
+- name: India Government Scheme Explorer
+  url: https://india-gov-scheme-chatbot.streamlit.app/
+  code: https://india-gov-scheme-chatbot.streamlit.app/
+  description: GovScheme Explorer: Easily find government schemes in India tailored to your needs. Ideal for startups, business, and more. Quick, user-friendly, and informative. Start exploring today!
+  used:
+    - thing: Python
+    - thing: Mistral-AI
+    - thing: Langchain
+    - thing: MyScale
+    - thing: Open-AI 
+    
 - name: Gossip
   url: https://github.com/mohitnihalani/Gossip
   code: https://github.com/mohitnihalani/Gossip
